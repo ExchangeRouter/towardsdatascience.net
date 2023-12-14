@@ -1,7 +1,7 @@
 # Site
-name: 'EpicGames Blog'
-description: 'EpicGames Blog - Epic Gaming, News, Updates and More'
-logo: 'assets/images/logo.png'
+name: 'Towards Data Science & Technology'
+description: 'Data science is a rapidly growing field with applications in almost every industry. It involves the use of scientific methods, processes, algorithms, and systems to extract knowledge and insights from data.'
+logo: 'assets/images/favicon.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
 disqus: 'demowebsite'
@@ -19,12 +19,12 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    epic:
-      name:           Epic
-      site:           https://epicgames.in
+    adam:
+      name:           Adam
+      site:           https://towardsdatascience.net
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Admin, the author of EpicGames. I hope you like it!"
-      email:          epic@gmail.com
+      bio:            "Hi, I am Adam, I love writing on AI and Data Science"
+      email:          exmgks@gmail.com
       twitter:        
  
 # Defaults
